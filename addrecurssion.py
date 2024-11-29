@@ -1,7 +1,7 @@
 '''
 Author:Nikhil Saju
 Date:29/11/24
-Description:Recursive function to multiply two positive numbers
+Description:Recursive function to aa two positive numbers
 '''
 
 
